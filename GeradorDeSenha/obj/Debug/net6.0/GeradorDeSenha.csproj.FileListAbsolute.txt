@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0\GeradorDeSenha.exe
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0\GeradorDeSenha.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0\GeradorDeSenha.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0\GeradorDeSenha.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0\GeradorDeSenha.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\GeradorDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\GeradorDeSenha.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\GeradorDeSenha.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\GeradorDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\GeradorDeSenha.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\refint\GeradorDeSenha.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\GeradorDeSenha.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\GeradorDeSenha.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Projetos\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0\ref\GeradorDeSenha.dll
